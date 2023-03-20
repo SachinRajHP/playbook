@@ -1,0 +1,1 @@
+prod ansible_host=172.25.233.81 ansible_connection=ssh ansible_user=root ansible_ssh_pass=amma
